@@ -1,6 +1,6 @@
 # Q - Learning Using Deep Reinforcement Learning  
 
-Here In this Python Script I tried to Apply Deep Reinforcement learning to Open AI Mountain-Car Enviroment.
+Here In this Python Script I tried to Apply Deep Reinforcement learning to Open AI Mountain-Car Enviroment Using gym library of Open AI .
 
 # Q-Learning 
 Q-learning is a type of value-based reinforcement learning algorithm that is used to learn the optimal action-selection policy for an agent interacting with its environment. The goal of Q-learning is to learn a function that takes in a state and an action, and returns the expected future reward for taking that action in that state. This function is called the Q-function or the action-value function.
